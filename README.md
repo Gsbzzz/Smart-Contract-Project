@@ -1,0 +1,1 @@
+This Solidity smart contract provides a framework for managing the supply chain of products on the Ethereum blockchain. It enables tracking the status of products from manufacture through to receipt, facilitating ownership transfers and state updates.
